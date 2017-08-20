@@ -1,0 +1,33 @@
+.register
+{
+
+  margin-top : 150px;
+//  background-color: #CCCCCC;
+}
+
+
+#register-container
+{
+ // background-color: #CCCCCC;
+}
+
+
+#register-form
+{
+  padding-top: 10px;
+}
+
+/* .form-group
+{
+  border-right: 1px dashed #CCCCCC;
+} */
+
+#register-button
+{
+  margin-top: 40px;
+ margin-left: 230px;
+  width: 35%;
+  /*text-align: center;*/
+  background-color: #5C3258;
+}
+

@@ -1,0 +1,29 @@
+#ReceiverAddress-Header{
+    margin-top: 75px;
+}
+
+#ReceiverName{
+    width : 600px;
+    margin-top : 50px;
+    margin-left : 60px;
+
+}
+
+#ReceiverAddress{
+    width : 600px;
+    margin-top : 10px;
+    margin-left : 60px;
+    
+}
+
+#ReceiverAddress-AddBut
+{
+    margin-left:15px;
+    width : 125px;
+    margin-top : 50px;
+}
+
+#ReceiverAddress-Table{
+    margin-top:50px;
+    margin-left:30px;
+}

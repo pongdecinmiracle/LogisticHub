@@ -1,0 +1,60 @@
+#inwza
+{
+background-color : #413F40
+
+}
+
+#img
+{
+padding-top : 40px;
+padding-left : 50px;
+
+}
+#okbutton
+{
+  background-color: #5C3258;
+color: #FFF
+
+}
+
+#contact-us
+{
+padding-top: 30px ;
+padding-left: 80px;
+color: #FFF
+}
+
+#sitemap
+{
+
+padding-top: 30px ;
+padding-left: 80px;
+color: #FFF
+
+}
+
+#des
+
+{
+  padding-left : 70px;
+  color : #FFF ;
+}
+
+#footer-email-bar
+{
+	padding-bottom:30px;
+}
+
+/* c {
+  color: hotpink;
+} */
+
+
+.footerlink{
+ color: white;;
+}
+
+#footer-middle{
+  margin-top: 15%;
+  margin-left :35%;
+}

@@ -1,0 +1,31 @@
+import React  from 'react';
+import './Promotion-Detail.css';
+
+
+
+const Promotion-Detail = () =>{
+
+    return (
+<div className="Promotion-Detail">
+
+
+                            <div className="row">
+                            <div className="container" id="register-container">
+                            <div className="page-header">
+                            <h1>Register </h1>
+                          </div>
+                          </div>
+                          </div>
+
+
+
+
+
+
+</div>
+
+    );
+  };
+
+
+export default Promotion-Detail;

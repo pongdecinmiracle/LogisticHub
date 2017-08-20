@@ -1,0 +1,84 @@
+
+
+/*#service-dashboard-rows {
+    background-color: #e3e3e3;
+    /*border-radius: 15px;*/
+  
+
+/*.col-md-6 {
+    background-color: #f5f3f3;
+}*/
+
+#service-dashboard-graph
+{   
+    margin-top:20px;
+    margin-left : 95px;
+    width:80%;
+    height: 400px;
+    /*border-color: #8560a8;*/
+}
+
+.row
+{
+    /*background-color: b*/
+}
+
+
+.dashboard-logobooking
+{
+      width:200px; 
+       height:140px; 
+       background-repeat: no-repeat;
+       /*background-attachment: fixed;*/
+       background-image: url("../../../pic/booking.png");
+       /*background-origin: 
+       background-position: 20% 50%;*/
+       background-size: 110%;
+} 
+
+.dashboard-logoshipping
+{
+      width:200px; 
+       height:140px; 
+       background-repeat: no-repeat;
+       /*background-attachment: fixed;*/
+       background-image: url("../../../pic/shipping.png");
+       /*background-origin: 
+       background-position: 20% 50%;*/
+       background-size: 110%;
+} 
+
+.dashboard-logocomplete
+{
+      width:200px; 
+       height:140px; 
+       background-repeat: no-repeat;
+       /*background-attachment: fixed;*/
+       background-image: url("../../../pic/complete.png");
+       /*background-origin: 
+       background-position: 20% 50%;*/
+       background-size: 110%;
+} 
+
+.dashboard-logowaiting
+{
+      width:200px; 
+       height:140px; 
+       background-repeat: no-repeat;
+       /*background-attachment: fixed;*/
+       background-image: url("../../../pic/waiting.png");
+       /*background-origin: 
+       background-position: 20% 50%;*/
+       background-size: 110%;
+} 
+
+.logopadtop
+{
+    /*padding-top :200px;*/
+    margin-top:20px;
+}
+
+#txtforlogo
+{
+    padding-left:100px;
+}

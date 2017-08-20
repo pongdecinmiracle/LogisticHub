@@ -1,0 +1,105 @@
+ .foractive{
+   color:#5C3258 ; 
+  background-color: #FFF; 
+}
+/* 
+ .headerja  {
+  color: #5C3258;
+  background-color: #FFF ;
+}   */
+
+
+
+#horizonline
+{
+ border: none;
+    height: 8px;
+    /* Set the hr color */
+    color: #5C3258; /* old IE */
+    background-color: #5C3258; /* Modern Browsers */
+    margin-bottom: -9px;
+}
+
+#header-top-bottom-hr
+{
+  margin-top: -10px;
+  border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #CCC; /* old IE */
+    background-color: #CCC; /* Modern Browsers */
+    /* margin-bottom: -9px; */
+}
+
+/* #header-top
+{
+padding-left : 85px;
+padding-top : 10px;
+} */
+.nav-pills{
+    font-size : 18px;
+}
+
+#header-topcss
+{
+  margin-top: 20px;
+  padding-left : 350px;
+padding-top : -10px;
+margin-bottom:-10px;
+
+}
+
+#header-bottom
+{
+margin-top:-10px;
+  /* padding-bottom :10px; */
+  padding-left : 20px;
+  margin-bottom:-10px;
+
+}
+
+
+ #header-search{
+  margin-left:50px;
+  margin-top:5px;
+  width:200px;
+}
+
+
+#header-search-button
+{
+  
+  margin-top:-9%;
+  margin-left : 30%;
+} 
+
+
+
+
+#header-logo
+{
+  width : 220px;
+  padding-top :18px;
+  margin-left : 75px;
+}
+
+
+
+#header-background
+{
+  margin-bottom: -20px;
+	background-color: #FFF;
+}
+
+#test
+{
+	color :#ff0066 ;
+	background-color: #FFF;
+}
+
+
+#red .active a,
+#red .active a:hover {
+    background-color: #9B539C;
+    text-decoration-color:   #413F40;
+}

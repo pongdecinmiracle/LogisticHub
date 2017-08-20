@@ -1,0 +1,32 @@
+
+
+#service-tracking-component
+{
+  margin-top: 20px;
+  margin-left:-30px;
+  /* margin-right : 10px; */
+  
+  text-align: center;
+  /* background-image: url(../../../pic/sub-cat-img-shipping-api.jpg); */
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: repeat;
+  padding-bottom: 120px;
+  
+
+}
+
+#service-tracking-search2
+{
+  margin-left : 25%;
+  margin-top:50px;
+  width : 50%;
+
+
+}
+
+#service-tracking-header2
+{
+  padding-top :120px;
+  margin-left:30px;
+}
